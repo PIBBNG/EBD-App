@@ -1,11 +1,4 @@
 /* eslint-disable prettier/prettier */
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
 
 import React, {Component} from 'react';
 import { View, Text, StyleSheet } from 'react-native';
