@@ -4,7 +4,12 @@ import Main from './pages/main';
 
 const RootStack = createStackNavigator({
     Home: {
-        screen: Main
+        screen: Main,
+        navigationOptions:{
+            headerStyle: {
+                backgroundColor: "#DA552F"
+            }
+        }
     }
 })
 
